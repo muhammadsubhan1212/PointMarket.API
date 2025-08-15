@@ -1,0 +1,6 @@
+@PointMarket.API_HostAddress = http://localhost:5125
+
+GET {{PointMarket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
